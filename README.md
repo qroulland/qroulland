@@ -32,4 +32,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="vuejs" width="20" height="20"/>
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer">
+    <img src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/images/08b98df2-1ad4-4a77-a3f9-9d2793b48135.png" alt="strapi" width="40" height="40"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="vuejs" width="20" height="20"/>
+  <a href="https://greensock.com/" target="_blank" rel="noreferrer">
+    <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="gsap" width="40" height="40"/>
+  </a>
 </p>
