@@ -1,6 +1,6 @@
 <h1 align="center">🌍&ensp;Hello World&ensp;🌍<br><br>🇫🇷&ensp;A passionate frontend developer from France&ensp;🇫🇷<br>&ensp;</h1>
 <br>
-- 🔭&ensp;I’m currently working for <b>MyLittleParis</b>&ensp;🗼 <br><br>
+- 🔭&ensp;I’m currently working for <b>Yuzu</b>&ensp;🍋 <br><br>
 - 📚&ensp;Studied at Digital Campus Rennes and get diplomed digital strategy expert with UX mention&ensp;🔍 <br><br>
 - 💻&ensp;Love the Vue.js environnement&ensp;💚 <br><br>
 - 🌱&ensp;I am currently in the process of perfecting my skills with Vue Mastery to become an expert&ensp;🏆<br><br>
