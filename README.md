@@ -1,9 +1,9 @@
-<h1 align="center">🌍&ensp;Hello World&ensp;🌍<br><br>🇫🇷&ensp;A passionate frontend developer from France&ensp;🇫🇷<br>&ensp;</h1>
+<h1 align="center">🌍&ensp;Hello World&ensp;🌍<br><br>🇫🇷&ensp;Passionate frontend developer from France&ensp;🇫🇷<br>&ensp;</h1>
 <br>
 - 🔭&ensp;I’m currently working for <b>Yuzu</b>&ensp;🍋 <br><br>
 - 📚&ensp;Studied at Digital Campus Rennes and get diplomed digital strategy expert with UX mention&ensp;🔍 <br><br>
 - 💻&ensp;Love the Vue.js environnement&ensp;💚 <br><br>
-- 🌱&ensp;I am currently in the process of perfecting my skills with Vue Mastery to become an expert&ensp;🏆<br><br>
+- 🌱&ensp;I am currently in the process of perfecting my skills with Vue to become an expert and learning the softwar craftmanship approach &ensp;🏆<br><br>
 - 📬&ensp;You can reach me on Discord at <b>Kutinho#5587</b>&ensp;💬<br><br>
 
 <h2 align="center"><span>⚒️</span>&ensp;Tools&ensp;<span>⚒️</span><br>&ensp;</h2>
