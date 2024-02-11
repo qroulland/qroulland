@@ -12,7 +12,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="" width="20" height="20"/>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
   </a>
@@ -34,7 +34,7 @@
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="" width="20" height="20"/>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="80" height="50"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="" width="20" height="20"/>
   <a href="https://strapi.io/" target="_blank" rel="noreferrer">
