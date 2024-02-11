@@ -57,3 +57,9 @@
     <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
+
+<style>
+  .markdown-body a {
+    text-decoration: none;
+  }
+</style>
