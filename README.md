@@ -29,8 +29,8 @@
     <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="" width="20" height="20"/>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/820px-Vitejs-logo.svg.png?20220412224743" alt="vitejs" width="40" height="40"/>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" alt="cypress" width="80" height="32"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="" width="20" height="20"/>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
