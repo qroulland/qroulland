@@ -6,6 +6,9 @@
 - 🌱&ensp;I am currently in the process of perfecting my skills with Vue to become an expert and learning the softwar craftmanship approach &ensp;🏆<br><br>
 - 📬&ensp;You can reach me on Discord at <b>Kutinho#5587</b>&ensp;💬<br><br>
 
+<h2 align="center"><span>⚒️</span>&ensp;Online projects&ensp;<span>⚒️</span><br>&ensp;</h2>
+- <a href="https://wheelunch.vercel.app/" target="_blank">Wheelunch 🎰</a> - The most funny wheel that help you to find a lunch idea
+
 <h2 align="center"><span>⚒️</span>&ensp;Tools&ensp;<span>⚒️</span><br>&ensp;</h2>
 <p align="center">
   <br>
