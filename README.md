@@ -7,7 +7,7 @@
 - 📬&ensp;You can reach me on Discord at <b>Kutinho#5587</b>&ensp;💬<br><br>
 
 <h2 align="center"><span>🚀</span>&ensp;Online projects&ensp;<span>🚀</span><br>&ensp;</h2>
-- <a href="https://wheelunch.vercel.app/" target="_blank">Wheelunch 🎰</a> - The most funny wheel that help you to find a lunch idea
+- <a href="https://wheelunch.vercel.app/" target="_blank">Wheelunch 🎰</a> - The most funny wheel that help you to find a lunch idea <br>
 - <a href="https://auto-financ-ia.vercel.app/" target="_blank">Auto Financ'IA 💸</a> - The tool every self-employed person needs
 
 <h2 align="center"><span>⚒️</span>&ensp;Tools&ensp;<span>⚒️</span><br>&ensp;</h2>
