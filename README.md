@@ -1,13 +1,14 @@
 <h1 align="center">🌍&ensp;Hello World&ensp;🌍<br><br>🇫🇷&ensp;Passionate frontend developer from France&ensp;🇫🇷<br>&ensp;</h1>
 <br>
-- 🔭&ensp;I’m currently working for <b>Yuzu</b>&ensp;🍋 <br><br>
+- 🔭&ensp;I’m currently working for <b>Djust</b>&ensp;🛒 <br><br>
 - 📚&ensp;Studied at Digital Campus Rennes and get diplomed digital strategy expert with UX mention&ensp;🔍 <br><br>
-- 💻&ensp;Love the Vue.js environnement&ensp;💚 <br><br>
+- 💻&ensp;Love the Vue.js & Nuxt environnement&ensp;💚 <br><br>
 - 🌱&ensp;I am currently in the process of perfecting my skills with Vue to become an expert and learning the softwar craftmanship approach &ensp;🏆<br><br>
 - 📬&ensp;You can reach me on Discord at <b>Kutinho#5587</b>&ensp;💬<br><br>
 
 <h2 align="center"><span>🚀</span>&ensp;Online projects&ensp;<span>🚀</span><br>&ensp;</h2>
 - <a href="https://wheelunch.vercel.app/" target="_blank">Wheelunch 🎰</a> - The most funny wheel that help you to find a lunch idea
+- <a href="https://auto-financ-ia.vercel.app/" target="_blank">Auto Financ'IA 💸</a> - The tool every self-employed person needs
 
 <h2 align="center"><span>⚒️</span>&ensp;Tools&ensp;<span>⚒️</span><br>&ensp;</h2>
 <p align="center">
